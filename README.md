@@ -1,0 +1,2 @@
+# SENTIMENT-ANALYSIS-FOR-MOVIE-REVIEW-USING-NAIVE-BAYES
+Cs585  Natural Language Processing - Final Project
